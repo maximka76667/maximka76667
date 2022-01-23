@@ -10,3 +10,5 @@ My name is Maxim. I am novice frontend developer.
 ![](https://img.shields.io/badge/Code-Sass-purple)
 ## ⚔ GitHub Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maximka76667&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+## ⚔ Other
+Languages: Russian, English (B2), Spanish (B2)
