@@ -5,7 +5,7 @@ My name is Maxim. I am novice frontend developer.
 [![](https://img.shields.io/badge/<Instagram>-@maximka76667-pink)](https://www.instagram.com/maximka76667)
 [![](https://img.shields.io/badge/<VKontakte>-/maximgriven-blue)](https://vk.com/maximgriven)
 ## 🛠 Tech Stack
-<div style="display: flex; width: 50%; margin: 0 auto;">
+<div>
   <img style="width: 50px;height: 50px;" src="https://cdn-icons-png.flaticon.com/512/732/732212.png" />
   <img style="width: 50px;height: 50px;" src="https://cdn-icons-png.flaticon.com/512/732/732190.png" />
   <img style="width: 50px;height: 50px;" src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" />
