@@ -1,9 +1,12 @@
 ## ✌ Hi, stranger!
 My name is Maxim. I am novice frontend developer.
+
 ## ✉ Contacts
-[![](https://img.shields.io/badge/GMail-maximgriven@gmail.com-orange)]()
-[![](https://img.shields.io/badge/Instagram-@maximka76667-orange)](https://www.instagram.com/maximka76667)
-[![](https://img.shields.io/badge/VKontakte-maximgriven-orange)](https://vk.com/maximgriven)
+![](https://img.shields.io/badge/-maximgriven@gmail.com-fff?style=for-the-badge&labelColor=fff&logo=gmail&logoColor=EA4335&color=EA4335)
+[![](https://img.shields.io/badge/-maximgriven-fff?style=for-the-badge&labelColor=fff&logo=linkedin&logoColor=0A66C2&color=0A66C2)](https://www.linkedin.com/in/maxim-grivennyy-ba9a31231)
+[![](https://img.shields.io/badge/-maximka76667-fff?style=for-the-badge&labelColor=fff&logo=Instagram&logoColor=E4405F&color=E4405F)](https://www.instagram.com/maximka76667)
+[![](https://img.shields.io/badge/-maximgriven-fff?style=for-the-badge&labelColor=fff&logo=VK&logoColor=0077FF&color=0077FF)](https://vk.com/maximgriven)
+
 ## 🛠 Tech Stack
 <div>
   <img style="width: 50px;height: 50px;" src="https://cdn-icons-png.flaticon.com/512/732/732212.png" />
@@ -20,6 +23,7 @@ My name is Maxim. I am novice frontend developer.
 
 ## ✍ GitHub Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maximka76667&show_icons=true&title_color=FF5000&bg_color=141414&text_color=fff&icon_color=ff5000)](https://github.com/anuraghazra/github-readme-stats)
+
 ## 👻 Other
 ### Languages
 - Russian (Native) <img style="width:20px;height:20px;" src="https://rucz.ru/images/emoji/russia.png">
