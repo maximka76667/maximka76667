@@ -17,6 +17,6 @@ My name is Maxim. I am novice frontend developer.
 </div>
 
 ## ✍ GitHub Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maximka76667)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maximka76667&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
 ## 👻 Other
 Languages: Russian, English (B2), Spanish (B2)
