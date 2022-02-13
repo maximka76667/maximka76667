@@ -19,7 +19,7 @@ My name is Maxim. I am novice frontend developer.
 </div>
 
 ## ✍ GitHub Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maximka76667&show_icons=true&title_color=FF5000&bg_color=141414&text_color=ddd&icon_color=ff5000)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maximka76667&show_icons=true&title_color=FF5000&bg_color=141414&text_color=fff&icon_color=ff5000)](https://github.com/anuraghazra/github-readme-stats)
 ## 👻 Other
 ### Languages
 - Russian (Native) <img style="width:20px;height:20px;" src="https://rucz.ru/images/emoji/russia.png">
