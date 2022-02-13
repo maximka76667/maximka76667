@@ -14,6 +14,8 @@ My name is Maxim. I am novice frontend developer.
   <img style="width: 50px;height: 50px;" src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png" />
   <img style="width: 50px;height: 50px;" src="https://cdn-icons-png.flaticon.com/512/5968/5968358.png" />
   <img style="width: 45px;height: 50px;" src="https://seeklogo.com/images/W/webpack-logo-9E66EE203A-seeklogo.com.png" />
+  <img style="width: 55px;height: 50px;" src="https://www.returngis.net/wp-content/uploads/2019/08/MongoDB-logo.jpg" />
+  <img style="width: 50px;height: 50px;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvM7Ot53EnLPrmFtBbQU5zt9VAydBJ2YNmSlFVLVa8cAEbB1A14_1oExlssC3u8dmKnGg&usqp=CAU" />
 </div>
 
 ## ✍ GitHub Stats
