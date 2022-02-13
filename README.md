@@ -19,4 +19,7 @@ My name is Maxim. I am novice frontend developer.
 ## ✍ GitHub Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maximka76667&theme=flag-india)](https://github.com/anuraghazra/github-readme-stats)
 ## 👻 Other
-Languages: Russian, English (B2), Spanish (B2)
+### Languages
+- Russian (Native) <img style="width:20px;height:20px;" src="https://rucz.ru/images/emoji/russia.png">
+- English (B2) <img style="width:20px;height:20px;" src="https://rucz.ru/images/emoji/usa.png">
+- Spanish (B2) <img style="width:20px;height:20px;" src="https://rucz.ru/images/emoji/spain.png">
