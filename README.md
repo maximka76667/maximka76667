@@ -26,6 +26,6 @@ My name is Maxim. I am novice frontend developer.
 
 ## 👻 Other
 ### Languages
-- Russian (Native) <img style="width:20px;height:20px;" src="https://rucz.ru/images/emoji/russia.png">
-- English (B2) <img style="width:20px;height:20px;" src="https://rucz.ru/images/emoji/usa.png">
-- Spanish (B2) <img style="width:20px;height:20px;" src="https://rucz.ru/images/emoji/spain.png">
+![](https://img.shields.io/badge/-Native-ff5000?style=for-the-badge&labelColor=141414&label=Russian&color=ff5000)
+![](https://img.shields.io/badge/-B2-ff5000?style=for-the-badge&labelColor=141414&label=English&color=ff5000)
+![](https://img.shields.io/badge/-B2-ff5000?style=for-the-badge&labelColor=141414&label=Spanish&color=ff5000)
