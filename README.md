@@ -5,12 +5,6 @@
 </p>
 ```
 
-## ✉ Contacts
-![](https://img.shields.io/badge/-maximgriven@gmail.com-fff?style=for-the-badge&labelColor=eee&logo=gmail&logoColor=EA4335&color=EA4335)
-[![](https://img.shields.io/badge/-maximgriven-fff?style=for-the-badge&labelColor=eee&logo=linkedin&logoColor=0A66C2&color=0A66C2)](https://www.linkedin.com/in/maxim-grivennyy-ba9a31231)
-[![](https://img.shields.io/badge/-maximka76667-fff?style=for-the-badge&labelColor=eee&logo=Instagram&logoColor=E4405F&color=E4405F)](https://www.instagram.com/maximka76667)
-[![](https://img.shields.io/badge/-maximgriven-fff?style=for-the-badge&labelColor=eee&logo=VK&logoColor=0077FF&color=0077FF)](https://vk.com/maximgriven)
-
 ## 🛠 Tech Stack
 <div>
   <img src="https://img.shields.io/badge/HTML5-fff?style=for-the-badge&labelColor=141414&logo=HTML5&logoColor=E34F26&color=E34F26" />
@@ -35,3 +29,9 @@
 ![](https://img.shields.io/badge/-Native-ff5000?style=for-the-badge&labelColor=141414&label=Russian&color=ff5000)
 ![](https://img.shields.io/badge/-B2-ff5000?style=for-the-badge&labelColor=141414&label=English&color=ff5000)
 ![](https://img.shields.io/badge/-B2-ff5000?style=for-the-badge&labelColor=141414&label=Spanish&color=ff5000)
+
+## ✉ Contacts
+![](https://img.shields.io/badge/-maximgriven@gmail.com-fff?style=for-the-badge&labelColor=eee&logo=gmail&logoColor=EA4335&color=EA4335)
+[![](https://img.shields.io/badge/-maximgriven-fff?style=for-the-badge&labelColor=eee&logo=linkedin&logoColor=0A66C2&color=0A66C2)](https://www.linkedin.com/in/maxim-grivennyy-ba9a31231)
+[![](https://img.shields.io/badge/-maximka76667-fff?style=for-the-badge&labelColor=eee&logo=Instagram&logoColor=E4405F&color=E4405F)](https://www.instagram.com/maximka76667)
+[![](https://img.shields.io/badge/-maximgriven-fff?style=for-the-badge&labelColor=eee&logo=VK&logoColor=0077FF&color=0077FF)](https://vk.com/maximgriven)
