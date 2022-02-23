@@ -1,5 +1,9 @@
-## ✌ Hi, stranger!
-My name is Maxim. I am novice frontend developer.
+## ✌ `<h1>Hi, stranger!</h1>`
+```
+<p class="greetings">
+  My name is Maxim. I am novice frontend developer from Kazakhstan.
+</p>
+```
 
 ## ✉ Contacts
 ![](https://img.shields.io/badge/-maximgriven@gmail.com-fff?style=for-the-badge&labelColor=eee&logo=gmail&logoColor=EA4335&color=EA4335)
