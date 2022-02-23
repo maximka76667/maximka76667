@@ -22,8 +22,11 @@ My name is Maxim. I am novice frontend developer.
 </div>
 
 ## ✍ GitHub Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maximka76667&show_icons=true&title_color=FF5000&bg_color=141414&text_color=fff&icon_color=ff5000&border_color=141414)](https://github.com/anuraghazra/github-readme-stats)
-
+<div>
+<img height="195em" src="https://github-readme-stats.vercel.app/api?username=maximka76667&show_icons=true&title_color=FF5000&bg_color=141414&text_color=fff&icon_color=ff5000&border_color=141414"/>
+<img height="195em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=maximka76667&layout=compact&title_color=FF5000&bg_color=141414&text_color=fff&icon_color=ff5000&border_color=141414"/>
+</div>
+  
 ## 👻 Other
 ### Languages
 ![](https://img.shields.io/badge/-Native-ff5000?style=for-the-badge&labelColor=141414&label=Russian&color=ff5000)
