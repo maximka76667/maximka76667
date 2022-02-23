@@ -1,6 +1,6 @@
 ## `<h1>✌ Hi, stranger!</h1>`
 ```
-<p class="greetings">
+<p class="about-me">
   My name is Maxim. I am novice frontend developer from Kazakhstan.
 </p>
 ```
