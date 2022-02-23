@@ -9,16 +9,15 @@ My name is Maxim. I am novice frontend developer.
 
 ## 🛠 Tech Stack
 <div>
-  <img style="width: 50px;height: 50px;" src="https://cdn-icons-png.flaticon.com/512/732/732212.png" />
-  <img style="width: 50px;height: 50px;" src="https://cdn-icons-png.flaticon.com/512/732/732190.png" />
-  <img style="width: 50px;height: 50px;" src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" />
-  <img style="width: 50px;height: 50px;" src="https://cdn-icons-png.flaticon.com/512/52/52234.png" />
-  <img style="width: 50px;height: 50px;" src="https://t3.ftcdn.net/jpg/02/03/91/52/240_F_203915248_TAnwS9nutBAKoPKrSPj9UOy0rd492dnL.jpg" />
-  <img style="width: 50px;height: 50px;" src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png" />
-  <img style="width: 50px;height: 50px;" src="https://cdn-icons-png.flaticon.com/512/5968/5968358.png" />
-  <img style="width: 45px;height: 50px;" src="https://seeklogo.com/images/W/webpack-logo-9E66EE203A-seeklogo.com.png" />
-  <img style="width: 55px;height: 50px;" src="https://www.returngis.net/wp-content/uploads/2019/08/MongoDB-logo.jpg" />
-  <img style="width: 50px;height: 50px;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvM7Ot53EnLPrmFtBbQU5zt9VAydBJ2YNmSlFVLVa8cAEbB1A14_1oExlssC3u8dmKnGg&usqp=CAU" />
+  <img src="https://img.shields.io/badge/HTML5-fff?style=for-the-badge&labelColor=141414&logo=HTML5&logoColor=E34F26&color=E34F26" />
+  <img src="https://img.shields.io/badge/CSS3-fff?style=for-the-badge&labelColor=141414&logo=CSS3&logoColor=1572B6&color=1572B6" />
+  <img src="https://img.shields.io/badge/JavaScript-fff?style=for-the-badge&labelColor=141414&logo=JavaScript&logoColor=F7DF1E&color=F7DF1E" />
+  <img src="https://img.shields.io/badge/Git-fff?style=for-the-badge&labelColor=141414&logo=Git&logoColor=F05032&color=F05032" />
+  <img src="https://img.shields.io/badge/React.js-fff?style=for-the-badge&labelColor=141414&logo=react&logoColor=61DAFB&color=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-fff?style=for-the-badge&labelColor=141414&logo=node.js&logoColor=339933&color=339933" />
+  <img src="https://img.shields.io/badge/Sass-fff?style=for-the-badge&labelColor=141414&logo=sass&logoColor=CC6699&color=CC6699" />
+  <img src="https://img.shields.io/badge/Webpack-fff?style=for-the-badge&labelColor=141414&logo=Webpack&logoColor=8DD6F9&color=8DD6F9" />
+  <img src="https://img.shields.io/badge/MongoDB-fff?style=for-the-badge&labelColor=141414&logo=mongodb&logoColor=47A248&color=47A248" />
 </div>
 
 ## ✍ GitHub Stats
