@@ -14,6 +14,7 @@
   <img src="https://img.shields.io/badge/React.js-fff?style=for-the-badge&labelColor=141414&logo=react&logoColor=61DAFB&color=61DAFB" />
   <img src="https://img.shields.io/badge/Node.js-fff?style=for-the-badge&labelColor=141414&logo=node.js&logoColor=339933&color=339933" />
   <img src="https://img.shields.io/badge/Sass-fff?style=for-the-badge&labelColor=141414&logo=sass&logoColor=CC6699&color=CC6699" />
+  <img src="https://img.shields.io/badge/PHP-fff?style=for-the-badge&labelColor=141414&logo=php&logoColor=777BB4&color=777BB4" />
   <img src="https://img.shields.io/badge/Webpack-fff?style=for-the-badge&labelColor=141414&logo=Webpack&logoColor=8DD6F9&color=8DD6F9" />
   <img src="https://img.shields.io/badge/MongoDB-fff?style=for-the-badge&labelColor=141414&logo=mongodb&logoColor=47A248&color=47A248" />
 </div>
