@@ -12,6 +12,7 @@
   <img src="https://img.shields.io/badge/JavaScript-fff?style=for-the-badge&labelColor=141414&logo=JavaScript&logoColor=F7DF1E&color=F7DF1E" />
   <img src="https://img.shields.io/badge/Git-fff?style=for-the-badge&labelColor=141414&logo=Git&logoColor=F05032&color=F05032" />
   <img src="https://img.shields.io/badge/React.js-fff?style=for-the-badge&labelColor=141414&logo=react&logoColor=61DAFB&color=61DAFB" />
+  <img src="https://img.shields.io/badge/TypeScript-fff?style=for-the-badge&labelColor=141414&logo=typescript&logoColor=3178C6&color=3178C6" />
   <img src="https://img.shields.io/badge/Node.js-fff?style=for-the-badge&labelColor=141414&logo=node.js&logoColor=339933&color=339933" />
   <img src="https://img.shields.io/badge/Sass-fff?style=for-the-badge&labelColor=141414&logo=sass&logoColor=CC6699&color=CC6699" />
   <img src="https://img.shields.io/badge/PHP-fff?style=for-the-badge&labelColor=141414&logo=php&logoColor=777BB4&color=777BB4" />
