@@ -4,19 +4,29 @@ My name is Maxim. I am frontend developer from Kazakhstan.
 
 
 ### 🛠 What do I use
+#### Frontend  
 <div>
   <img src="https://img.shields.io/badge/HTML5-fff?style=for-the-badge&labelColor=141414&logo=HTML5&logoColor=E34F26&color=E34F26" />
   <img src="https://img.shields.io/badge/CSS3-fff?style=for-the-badge&labelColor=141414&logo=CSS3&logoColor=1572B6&color=1572B6" />
   <img src="https://img.shields.io/badge/JavaScript-fff?style=for-the-badge&labelColor=141414&logo=JavaScript&logoColor=F7DF1E&color=F7DF1E" />
-  <img src="https://img.shields.io/badge/Git-fff?style=for-the-badge&labelColor=141414&logo=Git&logoColor=F05032&color=F05032" />
   <img src="https://img.shields.io/badge/React.js-fff?style=for-the-badge&labelColor=141414&logo=react&logoColor=61DAFB&color=61DAFB" />
   <img src="https://img.shields.io/badge/TypeScript-fff?style=for-the-badge&labelColor=141414&logo=typescript&logoColor=3178C6&color=3178C6" />
-  <img src="https://img.shields.io/badge/Node.js-fff?style=for-the-badge&labelColor=141414&logo=node.js&logoColor=339933&color=339933" />
   <img src="https://img.shields.io/badge/Sass-fff?style=for-the-badge&labelColor=141414&logo=sass&logoColor=CC6699&color=CC6699" />
   <img src="https://img.shields.io/badge/PHP-fff?style=for-the-badge&labelColor=141414&logo=php&logoColor=777BB4&color=777BB4" />
   <img src="https://img.shields.io/badge/Webpack-fff?style=for-the-badge&labelColor=141414&logo=Webpack&logoColor=8DD6F9&color=8DD6F9" />
+</div>
+
+#### Backend
+<div>
+  <img src="https://img.shields.io/badge/Node.js-fff?style=for-the-badge&labelColor=141414&logo=node.js&logoColor=339933&color=339933" />
   <img src="https://img.shields.io/badge/MongoDB-fff?style=for-the-badge&labelColor=141414&logo=mongodb&logoColor=47A248&color=47A248" />
 </div>
+
+#### Other
+<div>
+  <img src="https://img.shields.io/badge/Git-fff?style=for-the-badge&labelColor=141414&logo=Git&logoColor=F05032&color=F05032" />
+</div>
+
 
 ### ✍ This trendy little thing with some information
 <div>
