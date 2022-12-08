@@ -26,13 +26,6 @@ My name is Maxim. I am frontend developer from Kazakhstan.
 <div>
   <img src="https://img.shields.io/badge/Git-fff?style=for-the-badge&labelColor=141414&logo=Git&logoColor=F05032&color=F05032" />
 </div>
-
-
-### ✍ This trendy little thing with some information
-<div>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=maximka76667&show_icons=true&title_color=FF5000&bg_color=141414&text_color=fff&icon_color=ff5000&border_color=141414"/>
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=maximka76667&layout=compact&langs_count=6&title_color=FF5000&bg_color=141414&text_color=fff&icon_color=ff5000&border_color=141414"/>
-</div>
   
 ### 👻 More information...
 #### Languages
