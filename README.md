@@ -18,6 +18,7 @@ My name is Maxim. I am Fullstack and DevOps developer from Kazakhstan.
 
 #### Backend
 <div>
+  <img src="https://img.shields.io/badge/GraphQL-fff?style=for-the-badge&labelColor=141414&logo=graphql&logoColor=E10098&color=E10098" />
   <img src="https://img.shields.io/badge/Node.js-fff?style=for-the-badge&labelColor=141414&logo=node.js&logoColor=339933&color=339933" />
   <img src="https://img.shields.io/badge/Go-fff?style=for-the-badge&labelColor=141414&logo=go&logoColor=00ADD8&color=00ADD8" />
   <img src="https://img.shields.io/badge/Python-fff?style=for-the-badge&labelColor=141414&logo=python&logoColor=3776AB&color=3776AB" />
