@@ -30,7 +30,7 @@ My name is Maxim. I am Fullstack and DevOps developer from Kazakhstan.
   <img src="https://img.shields.io/badge/PostgreS-fff?style=for-the-badge&labelColor=f2f2f2&logo=postgresql&logoColor=4169E1&color=628af2" />
   <img src="https://img.shields.io/badge/MySQL-fff?style=for-the-badge&labelColor=f2f2f2&logo=mysql&logoColor=4479A1&color=4479A1" />
   <img src="https://img.shields.io/badge/MongoDB-fff?style=for-the-badge&labelColor=f2f2f2&logo=mongodb&logoColor=47A248&color=47A248" />
-  <img src="https://img.shields.io/badge/Firestore-fff?style=for-the-badge&labelColor=f2f2f2&logo=firebase&logoColor=DD2C00&color=DD2C00" />
+  <img src="https://img.shields.io/badge/Firebase-fff?style=for-the-badge&labelColor=f2f2f2&logo=firebase&logoColor=DD2C00&color=DD2C00" />
 </div>
 
 #### Version Control
