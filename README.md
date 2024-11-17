@@ -1,6 +1,6 @@
 ### ✌ Wassup, stranger!
 
-My name is Maxim. I am web developer from Kazakhstan.  
+My name is Maxim. I am Fullstack and DevOps developer from Kazakhstan.  
 #### [🦊 Here you can see my projects 🦊](https://maximka76667.github.io/portfolio)
 
 ### 🛠 What do I use
@@ -19,14 +19,33 @@ My name is Maxim. I am web developer from Kazakhstan.
 #### Backend
 <div>
   <img src="https://img.shields.io/badge/Node.js-fff?style=for-the-badge&labelColor=141414&logo=node.js&logoColor=339933&color=339933" />
-  <img src="https://img.shields.io/badge/MongoDB-fff?style=for-the-badge&labelColor=141414&logo=mongodb&logoColor=47A248&color=47A248" />
+  <img src="https://img.shields.io/badge/Go-fff?style=for-the-badge&labelColor=141414&logo=go&logoColor=00ADD8&color=00ADD8" />
+  <img src="https://img.shields.io/badge/Python-fff?style=for-the-badge&labelColor=141414&logo=python&logoColor=3776AB&color=3776AB" />
 </div>
 
-#### Other
+#### Data Bases
+<div>
+  <img src="https://img.shields.io/badge/PostgreS-fff?style=for-the-badge&labelColor=141414&logo=postgresql&logoColor=4169E1&color=628af2" />
+  <img src="https://img.shields.io/badge/MySQL-fff?style=for-the-badge&labelColor=141414&logo=mysql&logoColor=4479A1&color=4479A1" />
+  <img src="https://img.shields.io/badge/MongoDB-fff?style=for-the-badge&labelColor=141414&logo=mongodb&logoColor=47A248&color=47A248" />
+  <img src="https://img.shields.io/badge/Firestore-fff?style=for-the-badge&labelColor=141414&logo=firebase&logoColor=DD2C00&color=DD2C00" />
+</div>
+
+#### Version Control
 <div>
   <img src="https://img.shields.io/badge/Git-fff?style=for-the-badge&labelColor=141414&logo=Git&logoColor=F05032&color=F05032" />
 </div>
-  
+
+#### DevOps
+<div>
+  <img src="https://img.shields.io/badge/Docker-fff?style=for-the-badge&labelColor=141414&logo=docker&logoColor=2496ED&color=2496ED" />
+</div>
+
+#### Cloud
+<div>
+  <img src="https://img.shields.io/badge/google cloud-fff?style=for-the-badge&labelColor=141414&logo=google cloud&logoColor=4285F4&color=4285F4" />
+</div>
+
 ### 👻 More information...
 #### Languages
 ![](https://img.shields.io/badge/-Native-ff5000?style=for-the-badge&labelColor=141414&label=Russian&color=ff5000)
