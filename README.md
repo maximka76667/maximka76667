@@ -1,6 +1,6 @@
 ### ✌ Wassup, stranger!
 
-My name is Maxim. I am Fullstack and DevOps developer from Kazakhstan.  
+My name is Maxim. I am Fullstack and DevOps Engineer from Kazakhstan.  
 #### [🦊 Here you can see my projects 🦊](https://maximka76667.github.io/portfolio)
 
 ### 🛠 What do I use
