@@ -5,7 +5,9 @@ My name is Maxim. I am Fullstack and DevOps Engineer from Kazakhstan.
 
 ### 🛠 What do I use
 #### Frontend  
-<div style="display: flex"><img src="https://img.shields.io/badge/HTML5-fff?style=for-the-badge&labelColor=f2f2f2&logo=HTML5&logoColor=E34F26&color=E34F26" /><img src="https://img.shields.io/badge/CSS3-fff?style=for-the-badge&labelColor=f2f2f2&logo=CSS3&logoColor=1572B6&color=1572B6" />
+<div style="display: flex">
+  <img src="https://img.shields.io/badge/HTML5-fff?style=for-the-badge&labelColor=f2f2f2&logo=HTML5&logoColor=E34F26&color=E34F26" />
+  <img src="https://img.shields.io/badge/CSS3-fff?style=for-the-badge&labelColor=f2f2f2&logo=CSS3&logoColor=1572B6&color=1572B6" />
   <img src="https://img.shields.io/badge/JavaScript-fff?style=for-the-badge&labelColor=141414&logo=JavaScript&logoColor=F7DF1E&color=F7DF1E" />
   <img src="https://img.shields.io/badge/React.js-fff?style=for-the-badge&labelColor=141414&logo=react&logoColor=61DAFB&color=61DAFB" />
   <img src="https://img.shields.io/badge/TypeScript-fff?style=for-the-badge&labelColor=f2f2f2&logo=typescript&logoColor=3178C6&color=3178C6" />
