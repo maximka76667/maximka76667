@@ -43,7 +43,7 @@ My name is Maxim. I am Fullstack and DevOps Engineer from Kazakhstan.
   <img src="https://img.shields.io/badge/Docker-fff?style=for-the-badge&labelColor=f2f2f2&logo=docker&logoColor=2496ED&color=2496ED" />
 </div>
 
-#### Pipelines
+#### CI/CD
 <div>
   <img src="https://img.shields.io/badge/CircleCI-fff?style=for-the-badge&labelColor=f2f2f2&logo=circleci&logoColor=343434&color=343434" />
 </div>
