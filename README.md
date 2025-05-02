@@ -50,7 +50,7 @@ My name is Maxim. I am Fullstack and DevOps Engineer from Kazakhstan.
 
 #### Cloud
 <div>
-  <img src="https://img.shields.io/badge/google cloud-fff?style=for-the-badge&labelColor=f2f2f2&logo=google cloud&logoColor=4285F4&color=4285F4" />
+  <img src="https://img.shields.io/badge/google%20cloud-fff?style=for-the-badge&labelColor=f2f2f2&logo=google%20cloud&logoColor=4285F4&color=4285F4" />
 </div>
 
 ### 👻 More information...
