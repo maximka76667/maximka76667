@@ -7,7 +7,7 @@ My name is Maxim. I am Fullstack and DevOps Engineer from Kazakhstan.
 #### Frontend  
 <div>
   <img src="https://img.shields.io/badge/HTML5-fff?style=for-the-badge&labelColor=f2f2f2&logo=HTML5&logoColor=E34F26&color=E34F26" />
-  <img src="https://img.shields.io/badge/CSS3-fff?style=for-the-badge&labelColor=f2f2f2&logo=CSS3&logoColor=1572B6&color=1572B6" />
+  <img src="https://img.shields.io/badge/CSS-fff?style=for-the-badge&labelColor=f2f2f2&logo=CSS&logoColor=1572B6&color=1572B6" />
   <img src="https://img.shields.io/badge/JavaScript-fff?style=for-the-badge&labelColor=141414&logo=JavaScript&logoColor=F7DF1E&color=F7DF1E" />
   <img src="https://img.shields.io/badge/React.js-fff?style=for-the-badge&labelColor=141414&logo=react&logoColor=61DAFB&color=61DAFB" />
   <img src="https://img.shields.io/badge/TypeScript-fff?style=for-the-badge&labelColor=f2f2f2&logo=typescript&logoColor=3178C6&color=3178C6" />
@@ -61,7 +61,7 @@ My name is Maxim. I am Fullstack and DevOps Engineer from Kazakhstan.
 
 ### ✉ How to talk to me
 ![](https://img.shields.io/badge/-maximgriven@gmail.com-fff?style=for-the-badge&labelColor=eee&logo=gmail&logoColor=EA4335&color=EA4335)
-[![](https://img.shields.io/badge/-maximgriven-fff?style=for-the-badge&labelColor=eee&logo=linkedin&logoColor=0A66C2&color=0A66C2)](https://www.linkedin.com/in/maxim-grivennyy-ba9a31231)
+[![](https://img.shields.io/badge/LinkedIn-maximgriven-fff?style=for-the-badge&labelColor=eee&logo=linkedin&logoColor=0A66C2&color=0A66C2)](https://www.linkedin.com/in/maxim-grivennyy-ba9a31231)
 
 ### 👁👄👁 I'm a real person!!! I have social medias!
 [![](https://img.shields.io/badge/-maximka76667-fff?style=for-the-badge&labelColor=eee&logo=Instagram&logoColor=E4405F&color=E4405F)](https://www.instagram.com/maximka76667)
