@@ -64,7 +64,3 @@ My name is Maxim. I am Fullstack and DevOps Engineer from Kazakhstan.
 ## 👁👄👁 I'm a real person!!! I have social medias!
 
 [![Instagram](https://img.shields.io/badge/Instagram-@maximka76667-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/maximka76667)
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=maximka76667&color=blueviolet&style=for-the-badge" alt="Profile views" />
-</div>
