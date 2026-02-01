@@ -26,6 +26,13 @@ My name is Maxim. I am Fullstack and DevOps Engineer from Kazakhstan.
 ![React Testing Library](https://img.shields.io/badge/Testing_Library-E33332?style=for-the-badge&logo=testing-library&logoColor=white)
 ![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)
 
+### AI Engineering  
+![LangGraph](https://img.shields.io/badge/LangGraph-003DFF?style=for-the-badge&logo=langchain&logoColor=white)
+![LangSmith](https://img.shields.io/badge/LangSmith-FFA500?style=for-the-badge&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-101111?style=for-the-badge)
+![Anthropic](https://img.shields.io/badge/Anthropic-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF69B4?style=for-the-badge&logo=databricks&logoColor=white)
+
 ### Design & UI/UX
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
