@@ -19,12 +19,12 @@ My name is Maxim. I am Fullstack and DevOps Engineer from Kazakhstan.
 <!-- component icon-badge label=React icon=react -->
 <!-- component icon-badge label=Next.js icon=nextdotjs -->
 <!-- component icon-badge label=Redux icon=redux -->
-<!-- component icon-badge label=Zustand icon=zustand -->
+<!-- component icon-badge label=Zustand icon=redux -->
 <!-- component icon-badge label=RxJS icon=reactivex -->
 <!-- component icon-badge label=Tailwind CSS icon=tailwindcss -->
 <!-- component icon-badge label=shadcn/ui icon=shadcnui -->
 <!-- component icon-badge label=Three.js icon=threedotjs -->
-<!-- component icon-badge label=Vite icon=vitedotjs -->
+<!-- component icon-badge label=Vite icon=vite -->
 
 ### Testing
 
@@ -36,7 +36,7 @@ My name is Maxim. I am Fullstack and DevOps Engineer from Kazakhstan.
 
 <!-- component icon-badge label=LangGraph icon=langchain -->
 <!-- component icon-badge label=LangSmith icon=langchain -->
-<!-- component icon-badge label=OpenAI icon=openai -->
+<!-- component icon-badge label=OpenAI icon=openaigym -->
 <!-- component icon-badge label=Anthropic icon=anthropic -->
 <!-- component icon-badge label=ChromaDB icon=databricks -->
 
