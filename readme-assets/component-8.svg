@@ -1,16 +1,16 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="100" height="28" viewBox="0 0 100 28">
+<svg xmlns="http://www.w3.org/2000/svg" width="100" height="32" viewBox="0 0 100 32">
   <defs>
     <linearGradient id="iconGrad-" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" style="stop-color:#6366f1"/>
       <stop offset="100%" style="stop-color:#8b5cf6"/>
     </linearGradient>
     <clipPath id="iconClip-">
-      <path d="M 14,0 L 32,0 L 32,28 L 14,28 A 14,14 0 0 1 0,14 A 14,14 0 0 1 14,0 Z"/>
+      <path d="M 16,0 L 34,0 L 34,32 L 16,32 A 16,16 0 0 1 0,16 A 16,16 0 0 1 16,0 Z"/>
     </clipPath>
   </defs>
-  <rect x="0" y="0" width="100" height="28" rx="11" ry="11" fill="white"/>
-  <g transform="translate(10, 4) scale(0.833)">
+  <rect x="0" y="0" width="100" height="32" rx="16" ry="16" fill="white"/>
+  <g transform="translate(10, 6) scale(0.833)">
     <path d="M12.001,4.8c-3.2,0-5.2,1.6-6,4.8c1.2-1.6,2.6-2.2,4.2-1.8c0.913,0.228,1.565,0.89,2.288,1.624 C13.666,10.618,15.027,12,18.001,12c3.2,0,5.2-1.6,6-4.8c-1.2,1.6-2.6,2.2-4.2,1.8c-0.913-0.228-1.565-0.89-2.288-1.624 C16.337,6.182,14.976,4.8,12.001,4.8z M6.001,12c-3.2,0-5.2,1.6-6,4.8c1.2-1.6,2.6-2.2,4.2-1.8c0.913,0.228,1.565,0.89,2.288,1.624 c1.177,1.194,2.538,2.576,5.512,2.576c3.2,0,5.2-1.6,6-4.8c-1.2,1.6-2.6,2.2-4.2,1.8c-0.913-0.228-1.565-0.89-2.288-1.624 C10.337,13.382,8.976,12,6.001,12z" fill="#06B6D4"/>
   </g>
-  <text x="39" y="15" text-anchor="start" dominant-baseline="middle" fill="#334155" font-size="11" font-weight="600" font-family="system-ui, sans-serif">Tailwind</text>
+  <text x="39" y="17" text-anchor="start" dominant-baseline="middle" fill="#334155" font-size="11" font-weight="600" font-family="system-ui, sans-serif">Tailwind</text>
 </svg>

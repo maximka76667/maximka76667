@@ -1,16 +1,16 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="100" height="28" viewBox="0 0 100 28">
+<svg xmlns="http://www.w3.org/2000/svg" width="100" height="32" viewBox="0 0 100 32">
   <defs>
     <linearGradient id="iconGrad-" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" style="stop-color:#6366f1"/>
       <stop offset="100%" style="stop-color:#8b5cf6"/>
     </linearGradient>
     <clipPath id="iconClip-">
-      <path d="M 14,0 L 32,0 L 32,28 L 14,28 A 14,14 0 0 1 0,14 A 14,14 0 0 1 14,0 Z"/>
+      <path d="M 16,0 L 34,0 L 34,32 L 16,32 A 16,16 0 0 1 0,16 A 16,16 0 0 1 16,0 Z"/>
     </clipPath>
   </defs>
-  <rect x="0" y="0" width="100" height="28" rx="11" ry="11" fill="white"/>
-  <g transform="translate(10, 4) scale(0.833)">
+  <rect x="0" y="0" width="100" height="32" rx="16" ry="16" fill="white"/>
+  <g transform="translate(10, 6) scale(0.833)">
     <path d="M11.545 23.3a.613.613 0 0 1-.895.197L.252 15.936A.61.61 0 0 1 0 15.439V6.325c0-.502.569-.792.975-.497l6.358 4.624c.594.433 1.432.25 1.793-.39L14.393.7a.62.62 0 0 1 .535-.314h8.455a.613.613 0 0 1 .537.916z" fill="#00FF74"/>
   </g>
-  <text x="39" y="15" text-anchor="start" dominant-baseline="middle" fill="#334155" font-size="11" font-weight="600" font-family="system-ui, sans-serif">Vitest</text>
+  <text x="39" y="17" text-anchor="start" dominant-baseline="middle" fill="#334155" font-size="11" font-weight="600" font-family="system-ui, sans-serif">Vitest</text>
 </svg>
