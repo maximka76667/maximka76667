@@ -1,0 +1,25 @@
+{
+  "name": "maximka76667",
+  "version": "1.0.0",
+  "description": "My name is Maxim. I am Fullstack and DevOps Engineer from Kazakhstan.  \r #### [🦊 Here you can see my projects 🦊](https://maximka76667.github.io/portfolio)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "node build.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maximka76667/maximka76667.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/maximka76667/maximka76667/issues"
+  },
+  "homepage": "https://github.com/maximka76667/maximka76667#readme",
+  "devDependencies": {
+    "readme-kit": "^1.0.3"
+  }
+}
