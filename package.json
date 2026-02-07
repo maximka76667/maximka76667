@@ -4,7 +4,7 @@
   "description": "My README.md file",
   "main": "index.js",
   "scripts": {
-    "build": "node build.js"
+    "build": "node .readme-kit/build.js"
   },
   "repository": {
     "type": "git",
@@ -19,6 +19,6 @@
   },
   "homepage": "https://github.com/maximka76667/maximka76667#readme",
   "devDependencies": {
-    "readme-kit": "^1.0.8"
+    "readme-kit": "^1.0.14"
   }
 }
