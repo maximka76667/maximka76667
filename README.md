@@ -5,6 +5,8 @@ My name is Maxim. I am Fullstack and DevOps Engineer from Kazakhstan.
 ![](readme-assets/component-0.svg)
 ![](readme-assets/component-1.svg)
 
+<sub>Badges powered by [readme-kit](https://www.npmjs.com/package/readme-kit). Which is MY OWN library!</sub>
+
 #### [🦊 Here you can see my projects 🦊](https://maximka76667.github.io/portfolio)
 
 ## 🛠 What do I use
