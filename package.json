@@ -1,10 +1,9 @@
 {
   "name": "maximka76667",
   "version": "1.0.0",
-  "description": "My name is Maxim. I am Fullstack and DevOps Engineer from Kazakhstan.  \r #### [🦊 Here you can see my projects 🦊](https://maximka76667.github.io/portfolio)",
+  "description": "My README.md file",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
     "build": "node build.js"
   },
   "repository": {
@@ -20,6 +19,6 @@
   },
   "homepage": "https://github.com/maximka76667/maximka76667#readme",
   "devDependencies": {
-    "readme-kit": "^1.0.3"
+    "readme-kit": "^1.0.4"
   }
 }

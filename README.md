@@ -69,4 +69,12 @@ My name is Maxim. I am Fullstack and DevOps Engineer from Kazakhstan.
 
 [![Instagram](https://img.shields.io/badge/Instagram-@maximka76667-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/maximka76667)
 
-<div style="display: inline-block; padding: 0.35em 0.75em; font-size: 13px; font-weight: 600; color: #1e293b; background: #f1f5f9; border: 1px solid #e2e8f0; border-radius: 6px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; box-shadow: 0 1px 2px rgba(0,0,0,0.05);">that's my badge component</div>
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="28" viewBox="0 0 120 28">
+  <defs>
+    <filter id="badgeShadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="1" stdDeviation="1" flood-opacity="0.08"/>
+    </filter>
+  </defs>
+  <rect x="0" y="0" width="120" height="28" rx="6" ry="6" fill="#f1f5f9" stroke="#e2e8f0" stroke-width="1" filter="url(#badgeShadow)"/>
+  <text x="60" y="18" text-anchor="middle" fill="#1e293b" font-size="12" font-weight="600" font-family="system-ui, -apple-system, sans-serif">that's my badge component</text>
+</svg>
