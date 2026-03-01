@@ -27,7 +27,6 @@ My name is Maxim. I am Fullstack and DevOps Engineer from Kazakhstan.
 <!-- component icon-badge label=Vite icon=vite -->
 
 <!-- component subtitle label="Testing" -->
-
 <!-- component icon-badge label=Vitest icon=vitest -->
 <!-- component icon-badge label=Testing Library icon=testinglibrary -->
 <!-- component icon-badge label=Storybook icon=storybook -->
@@ -41,25 +40,21 @@ My name is Maxim. I am Fullstack and DevOps Engineer from Kazakhstan.
 <!-- component icon-badge label=ChromaDB icon=databricks -->
 
 <!-- component subtitle label="Design & UI/UX" -->
-
 <!-- component icon-badge label=Figma icon=figma -->
 
 <!-- component subtitle label="Backend Development" -->
-
 <!-- component icon-badge label=Node.js icon=nodedotjs -->
 <!-- component icon-badge label=Python icon=python -->
 <!-- component icon-badge label=PHP icon=php -->
 <!-- component icon-badge label=GraphQL icon=graphql -->
 
 <!-- component subtitle label="Databases" -->
-
 <!-- component icon-badge label=PostgreSQL icon=postgresql -->
 <!-- component icon-badge label=MySQL icon=mysql -->
 <!-- component icon-badge label=MongoDB icon=mongodb -->
 <!-- component icon-badge label=Firebase icon=firebase -->
 
 <!-- component subtitle label="DevOps & Cloud" -->
-
 <!-- component icon-badge label=Docker icon=docker -->
 <!-- component icon-badge label=Git icon=git -->
 <!-- component icon-badge label=GitHub Actions icon=githubactions -->
