@@ -3,6 +3,7 @@
 My name is Maxim. I am Fullstack and DevOps Engineer from Kazakhstan.
 
 <!-- component icon-badge label=Fullstack icon=react variant=gradient -->
+
 <!-- component icon-badge label=DevOps icon=docker variant=gradient -->
 
 <sub>Badges powered by [readme-kit](https://www.npmjs.com/package/readme-kit). Which is MY OWN library!</sub>
@@ -76,9 +77,9 @@ My name is Maxim. I am Fullstack and DevOps Engineer from Kazakhstan.
 
 <!-- component title label="How to talk to me" -->
 
-<!-- component split-badge prefix="Email" label="maximgriven@gmail.com" width=220 splitPos=70 prefixX=35 labelX=145 color="#ef4444" color2="#dc2626" -->
-<!-- component split-badge prefix="LinkedIn" label="@maximgriven" width=180 splitPos=85 prefixX=42 labelX=132 color="#0a66c2" color2="#0284c7" -->
+<!-- component split-badge prefix="Email" label="maximgriven@gmail.com" width=230 splitPos=70 prefixX=35 labelX=150 color="#ef4444" color2="#dc2626" -->
+<!-- component split-badge prefix="LinkedIn" label="@maximgriven" width=190 splitPos=85 prefixX=42 labelX=135 color="#0a66c2" color2="#0284c7" -->
 
 <!-- component title label="I'm a real person!" -->
 
-<!-- component split-badge prefix="Instagram" label="maximka76667" width=190 splitPos=95 prefixX=47 labelX=142 color="#e4405f" color2="#d948ae" -->
+<!-- component split-badge prefix="Instagram" label="maximka76667" width=200 splitPos=95 prefixX=47 labelX=147 color="#e4405f" color2="#d948ae" -->
