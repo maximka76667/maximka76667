@@ -9,13 +9,12 @@ My name is Maxim. I am Fullstack and DevOps Engineer from Kazakhstan.
 
 #### [🦊 Here you can see my projects 🦊](https://maximka76667.github.io/portfolio)
 
-## 🛠 What do I use
+![](.readme-kit/assets/component-2.svg)
 
-### Frontend Development
+<!-- component subtitle label="Frontend Development" -->
 
 <sub>**Foundation:** HTML5, CSS3, JavaScript</sub>
 
-![](.readme-kit/assets/component-2.svg)
 ![](.readme-kit/assets/component-3.svg)
 ![](.readme-kit/assets/component-4.svg)
 ![](.readme-kit/assets/component-5.svg)
@@ -25,60 +24,61 @@ My name is Maxim. I am Fullstack and DevOps Engineer from Kazakhstan.
 ![](.readme-kit/assets/component-9.svg)
 ![](.readme-kit/assets/component-10.svg)
 ![](.readme-kit/assets/component-11.svg)
-
-### Testing
-
 ![](.readme-kit/assets/component-12.svg)
+
+<!-- component subtitle label="Testing" -->
+
 ![](.readme-kit/assets/component-13.svg)
 ![](.readme-kit/assets/component-14.svg)
-
-### AI Engineering
-
 ![](.readme-kit/assets/component-15.svg)
+
+<!-- component subtitle label="AI Engineering" -->
+
 ![](.readme-kit/assets/component-16.svg)
 ![](.readme-kit/assets/component-17.svg)
 ![](.readme-kit/assets/component-18.svg)
 ![](.readme-kit/assets/component-19.svg)
-
-### Design & UI/UX
-
 ![](.readme-kit/assets/component-20.svg)
 
-### Backend Development
+<!-- component subtitle label="Design & UI/UX" -->
 
 ![](.readme-kit/assets/component-21.svg)
+
+<!-- component subtitle label="Backend Development" -->
+
 ![](.readme-kit/assets/component-22.svg)
 ![](.readme-kit/assets/component-23.svg)
 ![](.readme-kit/assets/component-24.svg)
-
-### Databases
-
 ![](.readme-kit/assets/component-25.svg)
+
+<!-- component subtitle label="Databases" -->
+
 ![](.readme-kit/assets/component-26.svg)
 ![](.readme-kit/assets/component-27.svg)
 ![](.readme-kit/assets/component-28.svg)
-
-### DevOps & Cloud
-
 ![](.readme-kit/assets/component-29.svg)
+
+<!-- component subtitle label="DevOps & Cloud" -->
+
 ![](.readme-kit/assets/component-30.svg)
 ![](.readme-kit/assets/component-31.svg)
 ![](.readme-kit/assets/component-32.svg)
 ![](.readme-kit/assets/component-33.svg)
+![](.readme-kit/assets/component-34.svg)
 
-## 👻 More information...
+![](.readme-kit/assets/component-35.svg)
 
-### Languages
+<!-- component subtitle label="Languages" -->
 
 - **Russian** - Native
 - **English** - C1
 - **Spanish** - B2
 
-## ✉ How to talk to me
+![](.readme-kit/assets/component-36.svg)
 
-[![Email](https://img.shields.io/badge/Email-maximgriven@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maximgriven@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Maxim_Grivennyy-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maxim-grivennyy-ba9a31231)
+![](.readme-kit/assets/component-37.svg)
+![](.readme-kit/assets/component-38.svg)
 
-## 👁👄👁 I'm a real person!!! I have social medias!
+![](.readme-kit/assets/component-39.svg)
 
-[![Instagram](https://img.shields.io/badge/Instagram-@maximka76667-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/maximka76667)
+![](.readme-kit/assets/component-40.svg)

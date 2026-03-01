@@ -9,9 +9,9 @@ My name is Maxim. I am Fullstack and DevOps Engineer from Kazakhstan.
 
 #### [🦊 Here you can see my projects 🦊](https://maximka76667.github.io/portfolio)
 
-## 🛠 What do I use
+<!-- component title label="## 🛠 What do I use" -->
 
-### Frontend Development
+<!-- component subtitle label="Frontend Development" -->
 
 <sub>**Foundation:** HTML5, CSS3, JavaScript</sub>
 
@@ -26,13 +26,13 @@ My name is Maxim. I am Fullstack and DevOps Engineer from Kazakhstan.
 <!-- component icon-badge label=Three.js icon=threedotjs -->
 <!-- component icon-badge label=Vite icon=vite -->
 
-### Testing
+<!-- component subtitle label="Testing" -->
 
 <!-- component icon-badge label=Vitest icon=vitest -->
 <!-- component icon-badge label=Testing Library icon=testinglibrary -->
 <!-- component icon-badge label=Storybook icon=storybook -->
 
-### AI Engineering
+<!-- component subtitle label="AI Engineering" -->
 
 <!-- component icon-badge label=LangGraph icon=langchain -->
 <!-- component icon-badge label=LangSmith icon=langchain -->
@@ -40,25 +40,25 @@ My name is Maxim. I am Fullstack and DevOps Engineer from Kazakhstan.
 <!-- component icon-badge label=Anthropic icon=anthropic -->
 <!-- component icon-badge label=ChromaDB icon=databricks -->
 
-### Design & UI/UX
+<!-- component subtitle label="Design & UI/UX" -->
 
 <!-- component icon-badge label=Figma icon=figma -->
 
-### Backend Development
+<!-- component subtitle label="Backend Development" -->
 
 <!-- component icon-badge label=Node.js icon=nodedotjs -->
 <!-- component icon-badge label=Python icon=python -->
 <!-- component icon-badge label=PHP icon=php -->
 <!-- component icon-badge label=GraphQL icon=graphql -->
 
-### Databases
+<!-- component subtitle label="Databases" -->
 
 <!-- component icon-badge label=PostgreSQL icon=postgresql -->
 <!-- component icon-badge label=MySQL icon=mysql -->
 <!-- component icon-badge label=MongoDB icon=mongodb -->
 <!-- component icon-badge label=Firebase icon=firebase -->
 
-### DevOps & Cloud
+<!-- component subtitle label="DevOps & Cloud" -->
 
 <!-- component icon-badge label=Docker icon=docker -->
 <!-- component icon-badge label=Git icon=git -->
@@ -66,19 +66,19 @@ My name is Maxim. I am Fullstack and DevOps Engineer from Kazakhstan.
 <!-- component icon-badge label=CircleCI icon=circleci -->
 <!-- component icon-badge label=Google Cloud icon=googlecloud -->
 
-## 👻 More information...
+<!-- component title label="## 👻 More information..." -->
 
-### Languages
+<!-- component subtitle label="Languages" -->
 
 - **Russian** - Native
 - **English** - C1
 - **Spanish** - B2
 
-## ✉ How to talk to me
+<!-- component title label="How to talk to me" color="#ef4444" -->
 
-[![Email](https://img.shields.io/badge/Email-maximgriven@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maximgriven@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Maxim_Grivennyy-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maxim-grivennyy-ba9a31231)
+<!-- component tag-badge label="Email" href="mailto:maximgriven@gmail.com" width=90 variant=gradient -->
+<!-- component tag-badge label="LinkedIn" href="https://www.linkedin.com/in/maxim-grivennyy-ba9a31231" width=100 -->
 
-## 👁👄👁 I'm a real person!!! I have social medias!
+<!-- component title label="I'm a real person!" variant=gradient -->
 
-[![Instagram](https://img.shields.io/badge/Instagram-@maximka76667-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/maximka76667)
+<!-- component tag-badge label="Instagram" href="https://www.instagram.com/maximka76667" width=110 variant=gradient -->
