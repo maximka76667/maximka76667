@@ -27,6 +27,7 @@ My name is Maxim. I am Fullstack and DevOps Engineer from Kazakhstan.
 <!-- component icon-badge label=Vite icon=vite -->
 
 <!-- component subtitle label="Testing" -->
+
 <!-- component icon-badge label=Vitest icon=vitest -->
 <!-- component icon-badge label=Testing Library icon=testinglibrary -->
 <!-- component icon-badge label=Storybook icon=storybook -->
@@ -40,6 +41,7 @@ My name is Maxim. I am Fullstack and DevOps Engineer from Kazakhstan.
 <!-- component icon-badge label=ChromaDB icon=databricks -->
 
 <!-- component subtitle label="Design & UI/UX" -->
+
 <!-- component icon-badge label=Figma icon=figma -->
 
 <!-- component subtitle label="Backend Development" -->

@@ -27,6 +27,7 @@ My name is Maxim. I am Fullstack and DevOps Engineer from Kazakhstan.
 ![](.readme-kit/assets/component-13.svg)
 
 ![](.readme-kit/assets/component-14.svg)
+
 ![](.readme-kit/assets/component-15.svg)
 ![](.readme-kit/assets/component-16.svg)
 ![](.readme-kit/assets/component-17.svg)
@@ -40,6 +41,7 @@ My name is Maxim. I am Fullstack and DevOps Engineer from Kazakhstan.
 ![](.readme-kit/assets/component-23.svg)
 
 ![](.readme-kit/assets/component-24.svg)
+
 ![](.readme-kit/assets/component-25.svg)
 
 ![](.readme-kit/assets/component-26.svg)
