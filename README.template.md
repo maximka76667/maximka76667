@@ -3,7 +3,6 @@
 My name is Maxim. I am Fullstack and DevOps Engineer from Kazakhstan.
 
 <!-- component icon-badge label=Fullstack icon=react variant=gradient -->
-
 <!-- component icon-badge label=DevOps icon=docker variant=gradient -->
 
 <sub>Badges powered by [readme-kit](https://www.npmjs.com/package/readme-kit). Which is MY OWN library!</sub>
