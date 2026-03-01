@@ -76,9 +76,9 @@ My name is Maxim. I am Fullstack and DevOps Engineer from Kazakhstan.
 
 <!-- component title label="How to talk to me" -->
 
-<!-- component tag-badge label="maximgriven@gmail.com" width=180 variant=gradient -->
-<!-- component tag-badge label="@maximgriven" width=110 -->
+<!-- component split-badge prefix="Email" label="maximgriven@gmail.com" width=220 splitPos=70 prefixX=35 labelX=145 color="#ef4444" color2="#dc2626" -->
+<!-- component split-badge prefix="LinkedIn" label="@maximgriven" width=180 splitPos=85 prefixX=42 labelX=132 color="#0a66c2" color2="#0284c7" -->
 
 <!-- component title label="I'm a real person!" -->
 
-<!-- component tag-badge label="Instagram" href="https://www.instagram.com/maximka76667" width=110 variant=gradient -->
+<!-- component split-badge prefix="Instagram" label="maximka76667" width=190 splitPos=95 prefixX=47 labelX=142 color="#e4405f" color2="#d948ae" -->
