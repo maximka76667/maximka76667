@@ -76,8 +76,8 @@ My name is Maxim. I am Fullstack and DevOps Engineer from Kazakhstan.
 
 <!-- component title label="How to talk to me" -->
 
-<!-- component tag-badge label="Email" href="mailto:maximgriven@gmail.com" width=90 variant=gradient -->
-<!-- component tag-badge label="LinkedIn" href="https://www.linkedin.com/in/maxim-grivennyy-ba9a31231" width=100 -->
+<!-- component tag-badge label="maximgriven@gmail.com" width=180 variant=gradient -->
+<!-- component tag-badge label="@maximgriven" width=110 -->
 
 <!-- component title label="I'm a real person!" -->
 
