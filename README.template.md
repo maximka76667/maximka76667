@@ -9,7 +9,7 @@ My name is Maxim. I am Fullstack and DevOps Engineer from Kazakhstan.
 
 #### [🦊 Here you can see my projects 🦊](https://maximka76667.github.io/portfolio)
 
-<!-- component title label="## 🛠 What do I use" -->
+<!-- component title label="What do I use" -->
 
 <!-- component subtitle label="Frontend Development" -->
 
@@ -66,7 +66,7 @@ My name is Maxim. I am Fullstack and DevOps Engineer from Kazakhstan.
 <!-- component icon-badge label=CircleCI icon=circleci -->
 <!-- component icon-badge label=Google Cloud icon=googlecloud -->
 
-<!-- component title label="## 👻 More information..." -->
+<!-- component title label="More information..." -->
 
 <!-- component subtitle label="Languages" -->
 

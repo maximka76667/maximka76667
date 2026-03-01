@@ -10,7 +10,7 @@
   </defs>
   <rect x="0" y="0" width="105" height="32" rx="16" ry="16" fill="white"/>
   <g transform="translate(10, 6) scale(0.833)">
-    <path d="M11.545 23.3a.613.613 0 0 1-.895.197L.252 15.936A.61.61 0 0 1 0 15.439V6.325c0-.502.569-.792.975-.497l6.358 4.624c.594.433 1.432.25 1.793-.39L14.393.7a.62.62 0 0 1 .535-.314h8.455a.613.613 0 0 1 .537.916z" fill="#00FF74"/>
+    <path d="M13.056 23.238a.57.57 0 0 1-1.02-.355v-5.202c0-.63-.512-1.143-1.144-1.143H5.148a.57.57 0 0 1-.464-.903l3.777-5.29c.54-.753 0-1.804-.93-1.804H.57a.574.574 0 0 1-.543-.746.6.6 0 0 1 .08-.157L5.008.78a.57.57 0 0 1 .467-.24h14.589a.57.57 0 0 1 .466.903l-3.778 5.29c-.54.755 0 1.806.93 1.806h5.745c.238 0 .424.138.513.322a.56.56 0 0 1-.063.603z" fill="#9135FF"/>
   </g>
-  <text x="39" y="17" text-anchor="start" dominant-baseline="middle" fill="#334155" font-size="12" font-weight="600" font-family="system-ui, sans-serif">Vitest</text>
+  <text x="39" y="17" text-anchor="start" dominant-baseline="middle" fill="#334155" font-size="12" font-weight="600" font-family="system-ui, sans-serif">Vite</text>
 </svg>
