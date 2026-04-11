@@ -1,8 +1,6 @@
-![](.readme-kit/assets/hero.svg)
-
 # ✌ Wassup, stranger!
 
-My name is Maxim. I'm a Fullstack & DevOps Engineer from Kazakhstan, occasionally working with embedded systems (STM32, Rust). I speak Russian (native), English (C1), and Spanish (C1).
+My name is Maxim. I'm a Fullstack & DevOps Engineer from Kazakhstan, occasionally working with embedded systems (STM32, Rust).
 
 ![](.readme-kit/assets/component-0.svg)
 ![](.readme-kit/assets/component-1.svg)
