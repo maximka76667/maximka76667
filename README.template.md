@@ -1,6 +1,8 @@
+![](.readme-kit/assets/hero.svg)
+
 # ✌ Wassup, stranger!
 
-My name is Maxim. I am Fullstack and DevOps Engineer from Kazakhstan.
+My name is Maxim. I'm a Fullstack & DevOps Engineer from Kazakhstan, occasionally working with embedded systems (STM32, Rust). I speak Russian (native), English (C1), and Spanish (C1).
 
 <!-- component icon-badge label=Fullstack icon=react variant=gradient -->
 <!-- component icon-badge label=DevOps icon=docker variant=gradient -->
@@ -32,23 +34,12 @@ My name is Maxim. I am Fullstack and DevOps Engineer from Kazakhstan.
 <!-- component icon-badge label=Testing Library icon=testinglibrary -->
 <!-- component icon-badge label=Storybook icon=storybook -->
 
-<!-- component subtitle label="AI Engineering" -->
-
-<!-- component icon-badge label=LangGraph icon=langchain -->
-<!-- component icon-badge label=LangSmith icon=langchain -->
-<!-- component icon-badge label=OpenAI icon=openaigym -->
-<!-- component icon-badge label=Anthropic icon=anthropic -->
-<!-- component icon-badge label=ChromaDB icon=databricks -->
-
-<!-- component subtitle label="Design & UI/UX" -->
-
-<!-- component icon-badge label=Figma icon=figma -->
-
-<!-- component subtitle label="Backend Development" -->
+<!-- component subtitle label="Backend & Systems" -->
 
 <!-- component icon-badge label=Node.js icon=nodedotjs -->
 <!-- component icon-badge label=Python icon=python -->
 <!-- component icon-badge label=PHP icon=php -->
+<!-- component icon-badge label=Rust icon=rust -->
 <!-- component icon-badge label=GraphQL icon=graphql -->
 
 <!-- component subtitle label="Databases" -->
@@ -66,19 +57,6 @@ My name is Maxim. I am Fullstack and DevOps Engineer from Kazakhstan.
 <!-- component icon-badge label=CircleCI icon=circleci -->
 <!-- component icon-badge label=Google Cloud icon=googlecloud -->
 
-<!-- component title label="More information..." -->
+---
 
-<!-- component subtitle label="Languages" -->
-
-- **Russian** - Native
-- **English** - C1
-- **Spanish** - B2
-
-<!-- component title label="How to talk to me" -->
-
-<!-- component split-badge prefix="Email" label="maximgriven@gmail.com" width=230 splitPos=70 prefixX=35 labelX=150 color="#ef4444" color2="#dc2626" -->
-<!-- component split-badge prefix="LinkedIn" label="@maximgriven" width=190 splitPos=85 prefixX=42 labelX=135 color="#0a66c2" color2="#0284c7" -->
-
-<!-- component title label="I'm a real person!" -->
-
-<!-- component split-badge prefix="Instagram" label="maximka76667" width=200 splitPos=95 prefixX=47 labelX=147 color="#e4405f" color2="#d948ae" -->
+maximgriven@gmail.com · [LinkedIn](https://linkedin.com/in/maximgriven)

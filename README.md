@@ -1,6 +1,8 @@
+![](.readme-kit/assets/hero.svg)
+
 # ✌ Wassup, stranger!
 
-My name is Maxim. I am Fullstack and DevOps Engineer from Kazakhstan.
+My name is Maxim. I'm a Fullstack & DevOps Engineer from Kazakhstan, occasionally working with embedded systems (STM32, Rust). I speak Russian (native), English (C1), and Spanish (C1).
 
 ![](.readme-kit/assets/component-0.svg)
 ![](.readme-kit/assets/component-1.svg)
@@ -43,42 +45,18 @@ My name is Maxim. I am Fullstack and DevOps Engineer from Kazakhstan.
 ![](.readme-kit/assets/component-24.svg)
 
 ![](.readme-kit/assets/component-25.svg)
-
 ![](.readme-kit/assets/component-26.svg)
-
 ![](.readme-kit/assets/component-27.svg)
 ![](.readme-kit/assets/component-28.svg)
+
 ![](.readme-kit/assets/component-29.svg)
+
 ![](.readme-kit/assets/component-30.svg)
-
 ![](.readme-kit/assets/component-31.svg)
-
 ![](.readme-kit/assets/component-32.svg)
 ![](.readme-kit/assets/component-33.svg)
 ![](.readme-kit/assets/component-34.svg)
-![](.readme-kit/assets/component-35.svg)
 
-![](.readme-kit/assets/component-36.svg)
+---
 
-![](.readme-kit/assets/component-37.svg)
-![](.readme-kit/assets/component-38.svg)
-![](.readme-kit/assets/component-39.svg)
-![](.readme-kit/assets/component-40.svg)
-![](.readme-kit/assets/component-41.svg)
-
-![](.readme-kit/assets/component-42.svg)
-
-![](.readme-kit/assets/component-43.svg)
-
-- **Russian** - Native
-- **English** - C1
-- **Spanish** - B2
-
-![](.readme-kit/assets/component-44.svg)
-
-![](.readme-kit/assets/component-45.svg)
-![](.readme-kit/assets/component-46.svg)
-
-![](.readme-kit/assets/component-47.svg)
-
-![](.readme-kit/assets/component-48.svg)
+maximgriven@gmail.com · [LinkedIn](https://linkedin.com/in/maximgriven)
