@@ -4,10 +4,9 @@ My name is Maxim. I'm a Fullstack & DevOps Engineer from Kazakhstan, occasionall
 
 <!-- component icon-badge label=Fullstack icon=react variant=gradient -->
 <!-- component icon-badge label=DevOps icon=docker variant=gradient -->
+<!-- component icon-badge label="Embedded Systems" icon=arm variant=gradient -->
 
 <sub>Badges powered by [readme-kit](https://www.npmjs.com/package/readme-kit). Which is MY OWN library!</sub>
-
-#### [🦊 Here you can see my projects 🦊](https://maximka76667.github.io/portfolio)
 
 <!-- component title label="What do I use" -->
 
@@ -19,7 +18,6 @@ My name is Maxim. I'm a Fullstack & DevOps Engineer from Kazakhstan, occasionall
 <!-- component icon-badge label=React icon=react -->
 <!-- component icon-badge label=Next.js icon=nextdotjs -->
 <!-- component icon-badge label=Redux icon=redux -->
-<!-- component icon-badge label=Zustand icon=redux -->
 <!-- component icon-badge label=RxJS icon=reactivex -->
 <!-- component icon-badge label=Tailwind CSS icon=tailwindcss -->
 <!-- component icon-badge label=shadcn/ui icon=shadcnui -->
@@ -43,7 +41,6 @@ My name is Maxim. I'm a Fullstack & DevOps Engineer from Kazakhstan, occasionall
 <!-- component subtitle label="Databases" -->
 
 <!-- component icon-badge label=PostgreSQL icon=postgresql -->
-<!-- component icon-badge label=MySQL icon=mysql -->
 <!-- component icon-badge label=MongoDB icon=mongodb -->
 <!-- component icon-badge label=Firebase icon=firebase -->
 
@@ -52,7 +49,6 @@ My name is Maxim. I'm a Fullstack & DevOps Engineer from Kazakhstan, occasionall
 <!-- component icon-badge label=Docker icon=docker -->
 <!-- component icon-badge label=Git icon=git -->
 <!-- component icon-badge label=GitHub Actions icon=githubactions -->
-<!-- component icon-badge label=CircleCI icon=circleci -->
 <!-- component icon-badge label=Google Cloud icon=googlecloud -->
 
 ---
