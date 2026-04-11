@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="105" height="32" viewBox="0 0 105 32">
+<svg xmlns="http://www.w3.org/2000/svg" width="{{#if width}}{{width}}{{else}}105{{/if}}" height="32" viewBox="0 0 {{#if width}}{{width}}{{else}}105{{/if}} 32">
   <defs>
     <linearGradient id="iconGrad-{{_id}}" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" style="stop-color:#6366f1"/>
@@ -9,7 +9,7 @@
     </clipPath>
   </defs>
   {{#if isGradient}}
-  <rect x="0" y="0" width="105" height="32" rx="16" ry="16" fill="url(#iconGrad-{{_id}})"/>
+  <rect x="0" y="0" width="{{#if width}}{{width}}{{else}}105{{/if}}" height="32" rx="16" ry="16" fill="url(#iconGrad-{{_id}})"/>
   {{#if iconPath}}
   <g clip-path="url(#iconClip-{{_id}})">
     <g transform="translate(10, 6) scale(0.833)">
@@ -21,7 +21,7 @@
   <text x="53" y="17" text-anchor="middle" dominant-baseline="middle" fill="white" font-size="12" font-weight="600" font-family="system-ui, sans-serif">{{label}}</text>
   {{/if}}
   {{else}}
-  <rect x="0" y="0" width="105" height="32" rx="16" ry="16" fill="white"/>
+  <rect x="0" y="0" width="{{#if width}}{{width}}{{else}}105{{/if}}" height="32" rx="16" ry="16" fill="white"/>
   {{#if iconPath}}
   <g transform="translate(10, 6) scale(0.833)">
     <path d="{{{iconPath}}}" fill="{{iconColor}}"/>

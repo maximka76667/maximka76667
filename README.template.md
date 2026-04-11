@@ -4,7 +4,7 @@ My name is Maxim. I'm a Fullstack & DevOps Engineer from Kazakhstan, occasionall
 
 <!-- component icon-badge label=Fullstack icon=react variant=gradient -->
 <!-- component icon-badge label=DevOps icon=docker variant=gradient -->
-<!-- component icon-badge label="Embedded Systems" icon=arm variant=gradient -->
+<!-- component icon-badge label=Embedded icon=arm variant=gradient width=110 -->
 
 <sub>Badges powered by [readme-kit](https://www.npmjs.com/package/readme-kit). Which is MY OWN library!</sub>
 
