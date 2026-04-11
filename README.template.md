@@ -34,10 +34,10 @@ My name is Maxim. I'm a Fullstack & DevOps Engineer from Kazakhstan, occasionall
 
 <!-- component subtitle label="Backend & Systems" -->
 
+<!-- component icon-badge label=Rust icon=rust -->
 <!-- component icon-badge label=Node.js icon=nodedotjs -->
 <!-- component icon-badge label=Python icon=python -->
 <!-- component icon-badge label=PHP icon=php -->
-<!-- component icon-badge label=Rust icon=rust -->
 <!-- component icon-badge label=GraphQL icon=graphql -->
 
 <!-- component subtitle label="Databases" -->
