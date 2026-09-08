@@ -10,15 +10,24 @@ My name is Maxim. I'm a DevOps & Backend Engineer from Kazakhstan, occasionally 
 
 <!-- component title label="What do I use" -->
 
-<!-- component subtitle label="DevOps & Cloud" -->
+<!-- component subtitle label="Containers & Orchestration" -->
 
 <!-- component icon-badge label=Docker icon=docker -->
 <!-- component icon-badge label=Kubernetes icon=kubernetes -->
 <!-- component icon-badge label=Helm icon=helm -->
+
+<!-- component subtitle label="Data & Streaming" -->
+
 <!-- component icon-badge label=Apache Kafka icon=apachekafka -->
 <!-- component icon-badge label=Redis icon=redis -->
+
+<!-- component subtitle label="Observability" -->
+
 <!-- component icon-badge label=Prometheus icon=prometheus -->
 <!-- component icon-badge label=Grafana icon=grafana -->
+
+<!-- component subtitle label="Cloud & CI/CD" -->
+
 <!-- component icon-badge label=Git icon=git -->
 <!-- component icon-badge label=GitHub Actions icon=githubactions -->
 <!-- component icon-badge label=Google Cloud icon=googlecloud -->
