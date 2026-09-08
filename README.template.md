@@ -18,7 +18,7 @@ My name is Maxim. I'm a DevOps & Backend Engineer from Kazakhstan, occasionally 
 
 <!-- component subtitle label="Data & Streaming" -->
 
-<!-- component icon-badge label=Apache Kafka icon=apachekafka width=150 -->
+<!-- component icon-badge label="Apache Kafka" icon=apachekafka width=150 -->
 <!-- component icon-badge label=Redis icon=redis width=90 -->
 
 <!-- component subtitle label="Observability" -->
@@ -29,8 +29,8 @@ My name is Maxim. I'm a DevOps & Backend Engineer from Kazakhstan, occasionally 
 <!-- component subtitle label="Cloud & CI/CD" -->
 
 <!-- component icon-badge label=Git icon=git width=75 -->
-<!-- component icon-badge label=GitHub Actions icon=githubactions width=165 -->
-<!-- component icon-badge label=Google Cloud icon=googlecloud width=150 -->
+<!-- component icon-badge label="GitHub Actions" icon=githubactions width=165 -->
+<!-- component icon-badge label="Google Cloud" icon=googlecloud width=150 -->
 
 <!-- component subtitle label="Backend & Systems" -->
 
@@ -55,7 +55,7 @@ My name is Maxim. I'm a DevOps & Backend Engineer from Kazakhstan, occasionally 
 <!-- component icon-badge label=Next.js icon=nextdotjs width=115 -->
 <!-- component icon-badge label=Redux icon=redux width=90 -->
 <!-- component icon-badge label=RxJS icon=reactivex width=85 -->
-<!-- component icon-badge label=Tailwind CSS icon=tailwindcss width=150 -->
+<!-- component icon-badge label="Tailwind CSS" icon=tailwindcss width=150 -->
 <!-- component icon-badge label=shadcn/ui icon=shadcnui width=125 -->
 <!-- component icon-badge label=Three.js icon=threedotjs width=120 -->
 <!-- component icon-badge label=Vite icon=vite width=85 -->
@@ -63,7 +63,7 @@ My name is Maxim. I'm a DevOps & Backend Engineer from Kazakhstan, occasionally 
 <!-- component subtitle label="Testing" -->
 
 <!-- component icon-badge label=Vitest icon=vitest width=95 -->
-<!-- component icon-badge label=Testing Library icon=testinglibrary width=170 -->
+<!-- component icon-badge label="Testing Library" icon=testinglibrary width=170 -->
 <!-- component icon-badge label=Storybook icon=storybook width=125 -->
 
 ---
